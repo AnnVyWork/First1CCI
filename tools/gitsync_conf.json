@@ -34,7 +34,7 @@
     },
     {
         "name": "YAXUNIT",
-        "extention": "YAXUNIT",
+        "extension": "YAXUNIT",
         "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus_yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
