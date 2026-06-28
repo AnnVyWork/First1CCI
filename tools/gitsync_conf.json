@@ -1,6 +1,6 @@
 {
   "globals": {
-    "storage-user": "DeployGit",
+    "storage-user": "Администратор",
     "storage-pwd": "",
     "git-path": "git",
     "domain-email": "otus.ru",
@@ -31,17 +31,6 @@
       "plugins-config": {
         "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
       }
-    },
-    {
-        "name": "YAXUNIT",
-        "extension": "YAXUNIT",
-        "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus_yaxunit",
-        "dir": "./src/cfe/yaxunit",
-        "temp-dir": "",
-        "v8version": "8.3.20.2257",
-        "plugins-config": {
-          "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
-        }
-     }
+    }
   ]
 }
