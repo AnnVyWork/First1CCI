@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Kyrales/jenkins-lib/devkyr/resources/schema.json",
-  "v8version": "8.3.20.2257",
+  "v8version": "8.5.1.1302",
   "edtVersion": "",
   "srcDir": "src/cf",
   "sourceFormat": "designer",
@@ -18,8 +18,8 @@
     "syntaxCheck": true,
     "edtValidate": false,
     "smoke": false,
-    "yaxunit": true,
-    "email": true,
+    "yaxunit": false,
+    "email": false,
     "telegram": false
   },
   "timeout": {
@@ -43,7 +43,7 @@
     "initMethod": "fromStorage",
     "runMigration": true,
     "additionalInitializationSteps": [],
-    "templateDBPath": "e:/1C/build/Demo83_otus/1Cv8.1CD",
+    "templateDBPath": "D:/Base/DemoUP/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {

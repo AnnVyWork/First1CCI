@@ -1,6 +1,6 @@
 {
   "globals": {
-    "storage-user": "Администратор",
+    "storage-user": "DeployGit",
     "storage-pwd": "",
     "git-path": "git",
     "domain-email": "otus.ru",
@@ -24,10 +24,10 @@
   "repositories": [
     {
       "name": "otus",
-      "path": "D:/Base/Rep",
+      "path": "D:/Base/Rep/StorageOtus",
       "dir": "./src/cf",
       "temp-dir": "",
-      "v8version": "8.3.20.2257",
+      "v8version": "8.5.1.1302",
       "plugins-config": {
         "URL": "https://github.com/Kyrales/otus_JenkinsExample.git"
       }
