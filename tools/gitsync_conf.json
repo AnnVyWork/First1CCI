@@ -1,6 +1,6 @@
 {
   "globals": {
-    "storage-user": "DeployGit",
+    "storage-user": "Администратор",
     "storage-pwd": "",
     "git-path": "git",
     "domain-email": "otus.ru",
