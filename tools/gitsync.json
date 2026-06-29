@@ -5,7 +5,7 @@
   "v8Version": "8.5.1.1302",
 
   "defaultInfobase": {
-    "connectionString": "/F=\"D:/Base/DemoUP_clear\"",
+    "connectionString": "/FD:/Base/DemoUP_clear",
     "auth": ""
   },
 
