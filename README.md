@@ -27,3 +27,5 @@ Jenkinsfile_gitsync - основной jenkins файл для запуска ф
 <img width="1551" height="366" alt="image" src="https://github.com/user-attachments/assets/d8af7541-b2d6-421b-bb49-f0fb6d6e8aa5" />
 
 <img width="1833" height="399" alt="image" src="https://github.com/user-attachments/assets/e216faa3-8f87-4e26-88a3-4dbe05f6abb4" />
+
+## Настройка SonarQube выполнена
